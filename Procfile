@@ -1,2 +1,2 @@
 
-web: gunicorn Fav-quotes:app
+web: gunicorn Fav-Quotas/quotes:app
